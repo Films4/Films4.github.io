@@ -7,6 +7,15 @@
 /*=========================================== 
  * Importing CSS Libraries
  *===========================================*/
+
+*{
+  margin: 0;
+  padding: 0;
+  over-flow-x: hidden;
+}
+
+
+
 article,
 aside,
 details,
